@@ -9,7 +9,7 @@ I started teaching myself to code November 2021. Starting with HTML and CSS, I r
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My Portfolio](https://www.swdev.codes/)
 * ✉️  You can contact me at [swyner97@gmail.com](mailto:swyner97@gmail.com)
-* 🧠  I'm learning Object-Relational Mapping (ORM)
+* 🧠  I'm learning nullish coalescing
 
 ### Skills
 
