@@ -4,12 +4,10 @@ Hi 👋 My name is Sarah Wyner
 Software Developer
 ------------------
 
-I started teaching myself to code November 2021. Starting with HTML and CSS, I realized that I really enjoyed it and enrolled myself to UCLA's Full Stack Coding Bootcamp to give myself structure and a community. As I'm going through the course, I've really gravitated towards front end development. I'm set to graduate in June 2022.
-
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My Portfolio](https://www.swdev.codes/)
 * ✉️  You can contact me at [sarah@swdev.codes](mailto:sarah@swdev.codes)
-* 🧠  I'm learning PHP
+* 🧠  I'm learning MongoDB
 
 ### Skills
 
